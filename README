@@ -1,0 +1,2 @@
+To run a code, just type
+g++ -std=c++11 -O3 -w main.cpp -o main && ./main
